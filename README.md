@@ -1,2 +1,0 @@
-# veibaemcc.github.io
-VeibaeWebsite
